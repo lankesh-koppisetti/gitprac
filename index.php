@@ -7,5 +7,7 @@
         <ul>
             <li>folders</li>
             <li>Files</li>
+        </ul>
+        <image src="images/drawing-1.svg" />
     </body>
 </html>
